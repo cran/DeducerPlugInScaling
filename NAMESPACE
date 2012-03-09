@@ -1,0 +1,9 @@
+exportPattern("^[[:alpha:]]+")
+import(
+  Deducer,
+  psych,
+  GPArotation,
+  mvnormtest,
+  irr,
+  klaR
+)
